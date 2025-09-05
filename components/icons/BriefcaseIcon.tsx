@@ -12,7 +12,7 @@ const BriefcaseIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
     <path
       strokeLinecap="round"
       strokeLinejoin="round"
-      d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-14L4 7v10l8 4m0-14v14"
+      d="M10 2a2 2 0 00-2 2v1h4V4a2 2 0 00-2-2zM5 7a2 2 0 00-2 2v8a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-4v1a1 1 0 01-1 1H9a1 1 0 01-1-1V7H5z"
     />
   </svg>
 );
