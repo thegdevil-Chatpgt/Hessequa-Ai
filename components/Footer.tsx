@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           </div>
           <div>
             <h4 className="font-bold text-lg mb-2 text-white">Contact</h4>
-            <p className="text-sm">info@hessequa.ai</p>
+            <p className="text-sm">Getintouch@hessequaai.co.za</p>
             <p className="text-sm">Heidelberg, Western Cape</p>
           </div>
           <div>
