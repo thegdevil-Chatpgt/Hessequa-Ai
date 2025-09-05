@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           </div>
           <div>
             <h4 className="font-bold text-lg mb-2 text-white">Contact</h4>
-            <p className="text-sm">Getintouch@hessequaai.co.za</p>
+            <p className="text-sm">info@hessequa.ai</p>
             <p className="text-sm">Heidelberg, Western Cape</p>
           </div>
           <div>
@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
         </div>
         <div className="border-t border-sandstone-beige/30 mt-8 pt-6 text-center text-sm">
           <p>Hessequa AI (Pty) Ltd | Reg No: [TBC]</p>
-          <p>© {new Date().getFullYear()} Hessequa AI. All Rights Reserved.</p>
+          <p>© 2025 Hessequa AI. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
